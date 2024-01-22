@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java,DSA,Spring-Boot,.Net(Acciojob Bootcamp)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1REnAUvSRq7V4iLyJk-3D3RF5FIV6PPaC/view)
+- 📄 Know about my Skill [Resume](https://drive.google.com/file/d/1REnAUvSRq7V4iLyJk-3D3RF5FIV6PPaC/view)
 
 - 📫 How to reach me **ram227209@gmail.com**
 
